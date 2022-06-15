@@ -6,8 +6,8 @@
     "sources": [
         {
             "type": "archive",
-            "url": "https://github.com/refi64/zypak/archive/v2021.09.1/zypak-2021.09.1.tar.gz",
-            "sha256": "0b7b24ffed5b64f5a6e1ffa8c6e5864b22ced7dac323c4373ff227abb14a6a41",
+            "url": "https://github.com/refi64/zypak/archive/v2022.04/zypak-2022.04.tar.gz",
+            "sha256": "4e93a7021320709bd80f0c5ee079af26efe48a6bc66619e9bf403ae726bcc335",
             "x-checker-data": {
                 "type": "anitya",
                 "project-id": 235350,
