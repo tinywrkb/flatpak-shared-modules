@@ -1,0 +1,26 @@
+{
+    "name": "libadwaita",
+    "buildsystem": "meson",
+    "config-opts": [
+        "-Dintrospection=disabled",
+        "-Dvapi=false",
+        "-Dgtk_doc=false",
+        "-Dtests=false",
+        "-Dexamples=false"
+    ],
+    "sources": [
+        {
+            "type": "archive",
+            "url": "https://download.gnome.org/sources/libadwaita/1.0/libadwaita-1.0.2.tar.xz",
+            "sha256": "79e56011f5532fba6cb02531249d2bcfb8a6c42495c7a7de92f8819661fea091",
+            "x-checker-data": {
+                "type": "gnome",
+                "name": "libadwaita",
+                "stable-only": true
+            }
+        }
+    ],
+    "modules": [
+        "../gtk4/gtk4.json"
+    ]
+}
