@@ -215,10 +215,18 @@
             ],
             "sources": [
                 {
-                    "type": "git",
-                    "url": "https://github.com/neovim/libvterm.git",
-                    "branch": "nvim",
-                    "commit": "65dbda3ed214f036ee799d18b2e693a833a0e591"
+                    "type": "archive",
+                    "url": "https://www.leonerd.org.uk/code/libvterm/libvterm-0.1.4.tar.gz",
+                    "sha256": "bc70349e95559c667672fc8c55b9527d9db9ada0fb80a3beda533418d782d3dd",
+                    "x-checker-data": {
+                        "type": "anitya",
+                        "project-id": 267537,
+                        "stable-only": true,
+                        "url-template": "https://www.leonerd.org.uk/code/libvterm/libvterm-$version.tar.gz",
+                        "versions": {
+                            "<": "0.2"
+                        }
+                    }
                 }
             ],
             "cleanup": [
