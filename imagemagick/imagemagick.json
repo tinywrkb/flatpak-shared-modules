@@ -16,5 +16,8 @@
                 "url-template": "https://github.com/ImageMagick/ImageMagick/archive/$version/ImageMagick-$version.tar.gz"
             }
         }
+    ],
+    "cleanup": [
+        "/bin/Magick*"
     ]
 }
