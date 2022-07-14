@@ -46,10 +46,17 @@
                     ],
                     "sources": [
                         {
-                            "type": "git",
-                            "url": "https://github.com/telmich/gpm.git",
-                            "branch": "master",
-                            "commit": "e82d1a653ca94aa4ed12441424da6ce780b1e530"
+                            "type": "archive",
+                            "url": "https://github.com/telmich/gpm/archive/e82d1a653ca94aa4ed12441424da6ce780b1e530/gpm-e82d1a653ca94aa4ed12441424da6ce780b1e530.tar.gz",
+                            "sha256": "570e6fcf0d9312f76aad7edfa8fc8bf90ae714ebe5ee444faece7ed7bf270939",
+                            "x-checker-data": {
+                                "type": "json",
+                                "url": "https://api.github.com/repos/telmich/gpm/commits?sha=master&per_page=1",
+                                "version-query": ".[].sha",
+                                "timestamp-query": ".[].commit.committer.date",
+                                "url-query": "\"https://github.com/telmich/gpm/archive/\" + $version + \"/gpm-\" + $version + \".tar.gz\""
+                            }
+
                         }
                     ]
                 },
