@@ -8,8 +8,8 @@
     "sources": [
         {
             "type": "archive",
-            "url": "https://github.com/mesonbuild/meson/releases/download/0.61.1/meson-0.61.1.tar.gz",
-            "sha256": "feb2cefb325b437dbf36146df7c6b87688ddff0b0205caa31dc64055c6da410c",
+            "url": "https://github.com/mesonbuild/meson/releases/download/0.63.0/meson-0.63.0.tar.gz",
+            "sha256": "3b51d451744c2bc71838524ec8d96cd4f8c4793d5b8d5d0d0a9c8a4f7c94cd6f",
             "x-checker-data": {
                 "type": "anitya",
                 "project-id": 6472,
