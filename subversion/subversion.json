@@ -107,8 +107,8 @@
                 {
                     "type": "archive",
                     "strip-components": 0,
-                    "url": "http://prdownloads.sourceforge.net/scons/scons-local-4.3.0.tar.gz",
-                    "sha256": "a2bf3d71427518d48000cef66525e47633c2347d4cd907b705bc2d5c09845bbb",
+                    "url": "http://prdownloads.sourceforge.net/scons/scons-local-4.4.0.tar.gz",
+                    "sha256": "7f0b561452430688e3d9ae0afc4d976134b69c12f527e1732109e26f272f8045",
                     "x-checker-data": {
                         "type": "html",
                         "url": "https://scons.org/pages/download.html",
