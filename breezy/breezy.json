@@ -9,8 +9,8 @@
     "sources": [
         {
             "type": "archive",
-            "url": "https://github.com/breezy-team/breezy/archive/brz-3.2.1.tar.gz",
-            "sha256": "142666cecc9fe6622d931563612fdd260d86efa0f741c5700b0ab214da8ed50b",
+            "url": "https://github.com/breezy-team/breezy/archive/brz-3.2.2.tar.gz",
+            "sha256": "5661f2e2348a60db4af9c4c8f417a3da3f0bbc02f7a41ce988baba5e1100f3f1",
             "x-checker-data": {
                 "type": "anitya",
                 "project-id": 45817,
